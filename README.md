@@ -29,6 +29,6 @@
 </P>
 <p> Ω(n) : Represents the Lower bound of an algorithm run time </p>
 <p> θ(n) : Reporesents the bound between the upper and the lower bound of an algorithm</p>
-## Authors
-* <a href="github.com/christianahsasona">Oluwatosin Christianah Sasona </a> 
-* <a href= "github.com/bunconice"> Bunmi Akinola </a> 
+<h1> Authors</h1>
+<p> <a href="github.com/christianahsasona">Oluwatosin Christianah Sasona </a> </p>
+<p> <a href= "github.com/bunconice"> Bunmi Akinola </a> </p>
