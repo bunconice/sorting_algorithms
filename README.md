@@ -28,7 +28,7 @@
 <p> O(n) : Is a Linear time Complexity of an Algorithm. It express the upper bound of an aslgorithm running time.
 </P>
 <p> Ω(n) : Represents the Lower bound of an algorithm run time </p>
-<p> θ(n) : Reporesents the bound between the upper and the lower bound of an algorithm
+<p> θ(n) : Reporesents the bound between the upper and the lower bound of an algorithm</p>
 ## Authors
 * <a href="github.com/christianahsasona">Oluwatosin Christianah Sasona </a> 
 * <a href= "github.com/bunconice"> Bunmi Akinola </a> 
