@@ -16,5 +16,5 @@
 
 ## Authors
 
-Oluwatosin Sasona
-Bunmi Akinola
+* Oluwatosin Sasona
+* Bunmi Akinola
